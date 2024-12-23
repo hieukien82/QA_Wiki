@@ -1,0 +1,147 @@
+vua_ID,vua_title,vua_hoten,vua_tuochieu,vua_chucvi,vua_ngaysinh,vua_ngaymat,trieudai_ID
+0,Trưng Nữ Vương,Trưng Nữ vương,,Nữ vương,,05/03/43,0
+1,Trưng Trắc,Trưng Trắc,,Nữ vương,13/09/14,14,0
+2,Thi Sách,Thi,,,,15/01/40,
+3,Trưng Nhị,Trưng Nhị,,Nữ vương,,05/03/43,0
+4,Mai Hắc Đế,Mai Thúc Loan,,Vua,670,723,1
+5,Mai Thiếu Đế,Mai Thiếu Đế,,,,723?,
+6,Bạch Đầu Đế,Bạch Đầu Đế,,,,723?,
+7,Bố Cái Đại Vương,Bố Cái Đại Vương,,,602,905,1
+8,Phùng An,Phùng An,,Vua,,,
+9,Đinh Kiến,Đinh Kiến,,,,,1
+10,Dương Thanh,Dương Thanh,,,771,820,1
+11,Dương Chí Liệt,Dương Chí Liệt,,,,,1
+12,Lý Nam Đế,Lý Bí hoặc Lý Bôn,,Vua đầu tiên,503,548,2
+13,Triệu Việt Vương,Triệu Quang Phục,,,524,571,
+14,Hậu Lý Nam Đế,Lý Phật Tử,,Vua,571,602,2
+15,Lý Sư Lợi,Lý Sư Lợi,,Vua cuối cùng,,,2
+16,Lý Thiên Bảo,Lý Thiên Bảo,,,499?,555,2
+17,Dương Đình Nghệ,Dương Đình Nghệ,,một nhà quân sự,22/11/874,937,
+18,Kiều Công Tiễn,Kiều Công Tiễn,,,870,938,1
+19,Ngô Quyền,Tiền Ngô Vương,,Vua đầu tiên,17/04/898,14/02/944,3
+20,Dương Tam Kha,Dương Tam Kha,,,,980,3
+21,Ngô Xương Ngập,Ngô Xương Ngập,,,915?,954,3
+22,Ngô Xương Văn,Ngô Xương Văn,,,934,965,3
+23,Ngô Xương Xí,Ngô Xương Xí,,,,,
+24,Đinh Tiên Hoàng,Đinh Tiên Hoàng,,Hoàng đế đầu tiên,22/03/924,10/979,4
+25,Đinh Phế Đế,Đinh Phế Đế,,Hoàng đế thứ 2,974,1001,4
+26,Lê Đại Hành,Lê Hoàn,,Hoàng đế đầu tiên,10/08/941,18/04/1005,5
+27,Lê Trung Tông (Tiền Lê),Lê Long Việt,,Hoàng đế thứ 2,983,21/12/1005,5
+28,Lê Long Đĩnh,Lê Long Đĩnh,,Hoàng đế cuối cùng,15/11/986,19/11/1009,5
+29,Lê Long Tung,Lê Long Tung,,,,,5
+30,Lý Thái Tổ,Lý Thái Tổ,,Hoàng đế đầu tiên,08/03/974,31/03/1028,6
+31,Lý Thái Tông,Lý Thái Tông,,Hoàng đế thứ 2,29/07/1000,03/11/1054,6
+32,Lý Thánh Tông,Lý Thánh Tông,,Hoàng đế thứ 3,30/03/1023,01/02/1072,6
+33,Lý Nhân Tông,Lý Nhân Tông,,Hoàng đế thứ 4,22/02/1066,15/01/1128,6
+34,Lý Thần Tông,Lý Thần Tông,,Hoàng đế thứ 5,1116,31/10/1138,6
+35,Lý Anh Tông,Lý Anh Tông,,Hoàng đế thứ 6,10/04/1136,14/08/1175,6
+36,Lý Cao Tông,Cao Tông Trung Suy,,Hoàng đế thứ 7,06/07/1173,15/11/1210,6
+37,Lý Thẩm,Lý Thẩm,,,,,6
+38,Lý Huệ Tông,Lý Sảm,,Hoàng đế thứ 8,07/1194,03/09/1226,6
+39,Lý Nguyên Hoàng,Nguyên vương,,,,1221,6
+40,Lý Chiêu Hoàng,Chiêu Thánh Hoàng hậu,,Nữ Hoàng,1218,1278,6
+41,Trần Thừa,Trần Thừa,Trần Huy Tông,Thái thượng hoàng đầu tiên,1184,17/02/1234,7
+42,Trần Thái Tông,Trần Cảnh,,Hoàng đế đầu tiên,09/07/1218,05/05/1277,7
+43,Trần Thánh Tông,Trần Hoảng,,Hoàng đế thứ 2,12/10/1240,03/07/1290,7
+44,Trần Nhân Tông,Trần Khâm,,Hoàng đế thứ 3,07/12/1258,16/12/1308,7
+45,Trần Anh Tông,Trần Thuyên,,Hoàng đế thứ 4,25/10/1276,21/04/1320,7
+46,Trần Minh Tông,Trần Mạnh,,Hoàng đế thứ 5,04/10/1300,10/03/1357,7
+47,Trần Hiến Tông,Trần Hiến Tông,,Hoàng đế thứ 6,17/05/1319,11/06/1341,7
+48,Trần Dụ Tông,Trần Dụ Tông,,Hoàng đế thứ 7,22/11/1336,25/05/1369,7
+49,Dương Nhật Lễ,Trần Nhật Lễ,,Hoàng đế thứ 8,1349,07/12/1370,7
+50,Trần Nghệ Tông,Cung Định Vương Trần Phủ,,Hoàng đế thứ 9,20/12/1321,06/01/1395,7
+51,Trần Duệ Tông,Trần Kính,,Hoàng đế thứ 10,30/06/1337,04/03/1377,7
+52,Trần Phế Đế (Đại Việt),Trần Phế Đế (Đại Việt),Giản Hoàng,Hoàng đế thứ 10,06/03/1361,06/12/1388,7
+53,Trần Thuận Tông,Trần Thuận Tông,,Hoàng đế thứ 12,1377,30/04/1400,7
+54,Trần Thiếu Đế,Trần Thiếu Đế,,Hoàng đế thứ 13,1396,1400?,7
+55,Trần Thiêm Bình,Trần Thiêm Bình,,,,1406,8
+56,Giản Định Đế,Trần Ngỗi,,Hoàng đế,1375,1410,7
+57,Trùng Quang Đế,Trần Quý Khoáng,,Hoàng đế thứ 2,,03/05/1414,7
+58,Trần Cảo (vua),Trần Cảo (vua),,,,1428,
+59,Hồ Quý Ly,Hồ Quý Ly,,Hoàng đế đầu tiên,1336,1407,
+60,Hồ Hán Thương,Hồ Hán Thương,,Hoàng đế thứ 2,1383,1407,8
+61,Lê Thái Tổ,Lê Lợi,,Hoàng đế,10/09/1385,05/10/1433,
+62,Lê Thái Tông,Lê Nguyên Long,,Hoàng đế thứ 2,22/12/1423,07/09/1442,9
+63,Lê Nhân Tông,Lê Bang Cơ,,Hoàng đế thứ 3,28/05/1441,25/10/1459,9
+64,Lê Nghi Dân,Lê Nghi Dân,Thiên Hưng,Hoàng đế thứ 4,10/1439,06/06/1460,9
+65,Lê Thánh Tông,Hồng Đức thịnh trị,,Hoàng đế thứ 4,25/08/1442,03/03/1497,9
+66,Lê Hiến Tông,Lê Hiến Tông,Cảnh Thống,Hoàng đế thứ 6,06/09/1461,24/06/1504,9
+67,Lê Túc Tông,Lê Túc Tông,Thái Trinh,Hoàng đế thứ 7,06/09/1488,12/01/1505,9
+68,Lê Uy Mục,Mẫn Lệ công,,Hoàng đế thứ 8,05/05/1488,20/01/1510,9
+69,Lê Tương Dực,Lê Oanh,Hồng Thuận,Hoàng đế thứ 9,16/07/1495,08/05/1516,9
+70,Lê Quang Trị,Lê Quang Trị,,,1508,28/07/1516,9
+71,Lê Chiêu Tông,Lê Y,Quang Thiệu,Hoàng đế thứ 10,18/11/1506,19/01/1527,9
+72,Lê Bảng,Lê Bảng,,,,,9
+73,Lê Do,Lê Do,,,,1519,9
+74,Lê Cung Hoàng,Lê Cung Hoàng,Thống Nguyên,Hoàng đế thứ 11,26/07/1507,15/09/1527,9
+75,Lê Trang Tông,Trang Tông Dụ Hoàng đế,,Hoàng đế thứ 12,1515,09/03/1548,9
+76,Lê Trung Tông (Hậu Lê),Lê Trung Tông (Hậu Lê),,Hoàng đế thứ 2,1535,24/01/1556,9
+77,Lê Anh Tông,Lê Duy Bang,,Hoàng đế thứ 3,1532,22/01/1573,9
+78,Lê Thế Tông,Lê Duy Đàm,,Hoàng đế thứ 4,1567,12/10/1599,9
+79,Lê Kính Tông,Lê Kính Tông,,Hoàng đế thứ 5,1588,23/06/1619,9
+80,Lê Thần Tông,Lê Duy Kỳ,,Hoàng đế thứ 6,1607,02/11/1662,9
+81,Lê Chân Tông,Lê Duy Hựu,,Hoàng đế thứ 7,1630,02/10/1649,9
+82,Lê Huyền Tông,Lê Duy Vũ,,Hoàng đế thứ 8,1654,16/11/1671,9
+83,Lê Gia Tông,Lê Duy Cối,,Hoàng đế thứ 9,1661,27/04/1675,9
+84,Lê Hy Tông,Lê Duy Cáp,,Vua thứ 10,15/03/1663,03/04/1716,9
+85,Lê Dụ Tông,Lê Duy Đường,,Hoàng đế thứ 11,1679,27/02/1731,9
+86,Lê Duy Phường,Vĩnh Khánh Đế hoặc Hôn Đức công,,Hoàng đế thứ 12,1709,1735,9
+87,Lê Thuần Tông,Lê Thuần Tông,,Hoàng đế thứ 13,16/03/1699,05/06/1735,9
+88,Lê Ý Tông,Lê Duy Thận,,Hoàng đế thứ 14,29/03/1719,10/08/1759,9
+89,Lê Hiển Tông,Lê Duy Diêu,Cảnh Hưng,Hoàng đế áp chót,20/05/1717,10/08/1786,9
+90,Lê Chiêu Thống,Lê Mẫn Đế,,Hoàng đế thứ 16,1765,1793,9
+91,Mạc Thái Tổ,Mạc Đăng Dung,,Hoàng đế đầu tiên,22/12/1483,11/09/1541,10
+92,Mạc Thái Tông,Mạc Thái Tông,,Hoàng đế thứ 2,1500,25/01/1540,10
+93,Mạc Hiến Tông,Mạc Phúc Hải,Quảng Hoà,Hoàng đế thứ 3,1517,1546,10
+94,Mạc Chính Trung,Mạc Chính Trung,,Hoàng tử,,,10
+95,Mạc Tuyên Tông,Mạc Phúc Nguyên,,Hoàng đế thứ 4,1540,1561,10
+96,Mạc Mậu Hợp,Mạc Mậu Hợp,,Hoàng đế,1560,01/1593,10
+97,Mạc Toàn,Mạc Toàn,,Vua thứ 6,1580,1593,10
+98,Mạc Kính Chỉ,Mạc Kính Chỉ,,Vua đầu tiên,,1593,10
+99,Mạc Kính Cung,Mạc Kính Cung,,Vua,,1625,10
+100,Mạc Kính Khoan,Mạc Kính Khoan,,Vua thứ 3,,1638,10
+101,Mạc Kính Vũ,Mạc Kính Vũ,,Vua thứ 10,,,10
+102,Mạc Kính Hẻ,Mạc Nguyên Thanh,,Vua,,,10
+103,Mạc Kính Quang,Mạc Kính Tiêu,,Vua cuối cùng,,,10
+104,Trịnh Kiểm,Thế Tổ Minh Khang Thái vương,,Nhà chính trị,14/09/1503,24/03/1570,
+105,Trịnh Cối,Trịnh Cối,,Nhà chính trị,,1584,10
+106,Trịnh Tùng,Trịnh Tùng,Thành Tổ Triết Vương,Chúa Trịnh đầu tiên,19/12/1550,17/07/1623,11
+107,Trịnh Tráng,Trịnh Tráng,Văn Tổ Nghị vương,Chúa Trịnh thứ 2,06/08/1577,28/05/1657,11
+108,Trịnh Tạc,Trịnh Tạc,Hoằng Tổ Dương vương,Chúa Trịnh thứ 3,11/04/1606,24/09/1682,11
+109,Trịnh Căn,Trịnh Căn,Chiêu Tổ Khang Vương,Chúa Trịnh thứ 4,18/07/1633,17/06/1709,11
+110,Trịnh Cương,Trịnh Chù,Hy Tổ Nhân vương,Chúa Trịnh thứ 5,09/07/1686,20/12/1729,11
+111,Trịnh Giang,Trịnh Khương,Dụ Tổ Thuận vương,Chúa Trịnh thứ 6,14/10/1711,30/12/1762,11
+112,Trịnh Doanh,Trịnh Doanh,Nghị Tổ Ân vương,Chúa Trịnh thứ 7,04/12/1720,12/05/1767,11
+113,Trịnh Sâm,Trịnh Sâm,Thánh Tổ Thịnh vương,Chúa Trịnh thứ 8,09/02/1739,13/09/1782,11
+114,Trịnh Cán,Trịnh Cán,,Chúa Trịnh thứ 9,1775,17/12/1782,11
+115,Trịnh Tông,Trịnh Khải,,Chúa Trịnh thứ 10,10/10/1763,23/07/1786,11
+116,Trịnh Bồng,Trịnh Bồng,,Chúa Trịnh thứ 11,25/08/1749,13/02/1791,11
+117,Trịnh Kiều,Trịnh Kiều,,Thế tử,1601,1642,9
+118,Trịnh Vịnh,Trịnh Vịnh,,Vương Thế tử,1654,1683,
+119,Trịnh Bính,Trịnh Bính,,Thế tử,30/06/1670,03/02/1703,
+120,Nguyễn Nhạc,Nguyễn Văn Nhạc,Thái Đức,Hoàng đế đầu tiên,1743,1793,12
+121,Quang Trung,Nguyễn Huệ,,Hoàng đế thứ 2,1753,16/09/1792,12
+122,Nguyễn Quang Toản,Nguyễn Quang Toản,Cảnh Thịnh và Bảo Hưng,Hoàng đế thứ 3,1783,1802,12
+123,Nguyễn Hoàng,Nguyễn Thái Tổ,,Chúa Nguyễn đầu tiên,28/08/1525,20/07/1613,13
+124,Nguyễn Phúc Nguyên,Nguyễn Hy Tông,,Chúa Nguyễn thứ 2,16/08/1563,19/11/1635,13
+125,Nguyễn Phúc Lan,Nguyễn Thần Tông,,Chúa Nguyễn thứ 3,13/08/1601,19/03/1648,13
+126,Nguyễn Phúc Tần,Nguyễn Thái Tông,Dũng Quận công,Chúa Nguyễn thứ 4,18/07/1620,30/04/1687,13
+127,Nguyễn Phúc Thái,Nguyễn Phúc Thái,,Chúa Nguyễn thứ 5,1649,1691,13
+128,Nguyễn Phúc Chu,Nguyễn Hiển Tông,,Chúa Nguyễn thứ 6,11/06/1675,01/06/1725,13
+129,Nguyễn Phúc Chú,Trú hay Thụ Nguyễn Túc Tông,,Chúa Nguyễn thứ 7,1697,1738,13
+130,Nguyễn Phúc Khoát,Chúa Võ,Vũ vương hay Võ vương,Chúa Nguyễn thứ 8,1714,1765,13
+131,Nguyễn Phúc Thuần,Nguyễn Duệ Tông,,Chúa Nguyễn thứ 9,1754,1777,13
+132,Nguyễn Phúc Dương,Nguyễn Phúc Dương,Tân Chính vương,Chúa Nguyễn thứ 10,1759?,1777,13
+133,Gia Long,Nguyễn Phúc Ánh,Nguyễn Thế Tổ,Hoàng đế đầu tiên,08/02/1762,03/02/1820,14
+134,Minh Mạng,Minh Mạng,Nguyễn Thánh Tổ,Hoàng đế thứ 2,25/05/1791,20/01/1841,14
+135,Thiệu Trị,Nguyễn Phúc Dung,Hiến Tổ,Hoàng đế thứ 3,16/06/1807,04/11/1847,14
+136,Tự Đức,Nguyễn Phúc Hồng Nhậm,Nguyễn Dực Tông,Hoàng đế thứ 4,22/09/1829,19/07/1883,14
+137,Dục Đức,Nguyễn Phúc Ưng Ái,Cung Tông,Hoàng đế thứ 5,23/02/1852,06/10/1883,14
+138,Hiệp Hòa,Nguyễn Phúc Hồng Dật,Hiệp Hòa,Hoàng đế thứ 6,01/11/1847,29/11/1883,14
+139,Kiến Phúc,Nguyễn Phúc Ưng Đăng,Nguyễn Giản Tông,Hoàng đế thứ 7,12/02/1869,31/07/1884,14
+140,Hàm Nghi,Nguyễn Phúc Ưng Lịch,,Hoàng đế thứ 8,03/08/1871,14/01/1944,14
+141,Đồng Khánh,Nguyễn Phúc Ưng Thị,,Hoàng đế thứ 9,19/02/1864,28/01/1889,14
+142,Thành Thái,Nguyễn Phúc Bửu Lân,,Hoàng đế thứ 10,14/03/1879,20/03/1954,14
+143,Duy Tân,Nguyễn Phúc Vĩnh San,,Hoàng đế thứ 11,19/09/1900,26/12/1945,14
+144,Khải Định,Nguyễn Phúc Bửu Đảo,Hoằng Tông,Hoàng đế thứ 12,08/10/1885,06/11/1925,14
+145,Bảo Đại,Nguyễn Phúc,,Hoàng đế thứ 13,22/10/1913,31/07/1997,14
